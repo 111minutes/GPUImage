@@ -150,4 +150,3 @@
 #import "GPUImagePoissonBlendFilter.h"
 #import "GPUImageMotionBlurFilter.h"
 #import "GPUImageZoomBlurFilter.h"
-#import "GPUImageFASTCornerDetectionFilter.h"
